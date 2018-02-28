@@ -1,0 +1,30 @@
+#tabuleiro {
+    position: absolute;
+    height: 600px;
+    width: 600px; 
+    border: 2px groove brown;
+}
+
+#black {
+    position: relative;
+    height: 75px;
+    width: 75px;
+    background-color: saddlebrown;
+    float:left; 
+    margin:1px;
+}
+
+#white {
+    position: relative;
+    height: 75px;
+    width: 75px;
+    background-color: white;
+    float:left; 
+    margin:1px;
+}
+ #tabuleiro div{
+     font-size: 48px;
+     text-align: center;
+ }
+
+
